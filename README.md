@@ -28,7 +28,7 @@ GET https://viacep.com.br/ws/{cep}/json/
 
 **Exemplo de requisição:**
 ```
-https://viacep.com.br/ws/01310-100/json/
+https://viacep.com.br/ws/01310100/json/
 ```
 
 **Exemplo de resposta:**
