@@ -107,7 +107,7 @@ projeto/
 
 ## ❓ Dúvidas
 
-Em caso de dúvidas sobre o teste, entre em contato através do email: [h.fabbri@integrale.digital]
+Em caso de dúvidas sobre o teste, entre em contato através do email: h.fabbri@integrale.digital
 
 ---
 
