@@ -105,6 +105,10 @@ projeto/
 - Use nomes de variáveis e funções descritivos
 - Teste em diferentes navegadores
 
+## ❓ Dúvidas
+
+Em caso de dúvidas sobre o teste, entre em contato através do email: [h.fabbri@integrale.digital]
+
 ---
 
 **Boa sorte! 🍀**
