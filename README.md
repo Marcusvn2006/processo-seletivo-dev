@@ -105,9 +105,9 @@ projeto/
 - Use nomes de variáveis e funções descritivos
 - Teste em diferentes navegadores
 
-## ❓ Dúvidas
+## <img width="24" align="center" src="https://cdn.simpleicons.org/whatsapp" /> Dúvidas
 
-Em caso de dúvidas sobre o teste, entre em contato através do Whatsapp: <img width="1024" height="1024" alt="ChatGPT Image 26 de ago  de 2025, 14_17_39" src="https://github.com/user-attachments/assets/45097a04-7ded-4e52-904d-25aeb75c46b3"/> 14 99838-6951
+Em caso de dúvidas sobre o teste, entre em contato através do Whatsapp: <a href="https://wa.me/+5514998386951">14 99838-6951</a>
 
 
 ---
