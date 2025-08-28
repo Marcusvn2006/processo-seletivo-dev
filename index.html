@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <title>Consulta de CEP</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="conteiner-consulta">
+        <h1>Consulta de CEP</h1>
+        <input
+          type="text"
+          id="cep-input"
+          placeholder="Digite o CEP"
+          maxlength="9"
+        />
+        <button id="search-button">Consultar</button>
+
+        <div id="loading" class="loading hidden">
+          <div class="spinner"></div>
+          <p>Carregando informações...</p>
+        </div>
+
+        <div class="result-item hidden">
+          <span class="label">CEP:</span>
+          <span id="cep-result"></span>
+        </div>
+        <div class="result-item hidden">
+          <span class="label">Logradouro:</span>
+          <span id="logradouro-result"></span>
+        </div>
+        <div class="result-item hidden">
+          <span class="label">Bairro:</span>
+          <span id="bairro-result"></span>
+        </div>
+        <div class="result-item hidden">
+          <span class="label">Cidade:</span>
+          <span id="cidade-result"></span>
+        </div>
+        <div class="result-item hidden">
+          <span class="label">UF:</span>
+          <span id="uf-result"></span>
+        </div>
+        <div class="result-item hidden">
+          <span class="label">DDD:</span>
+          <span id="ddd-result"></span>
+        </div>
+        <div id="error-container" class="error-container hidden">
+          <p id="error-message"></p>
+        </div>
+      </div>
+      <div class="container-mapa">
+        <div id="map"></div>
+      </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
