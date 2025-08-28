@@ -1,5 +1,25 @@
 # Teste para Vaga de Auxiliar de Desenvolvedor
 
+## 🚀 Como utilizar
+
+Acesse a página através do link:  
+👉 [Clique aqui para abrir o projeto](https://marcusvn2006.github.io/processo-seletivo-dev/)
+
+---
+
+### 🔹 Caso prefira acessar localmente, siga os passos abaixo:
+1. Clique no botão **Code** e depois em **Download ZIP**.  
+2. Extraia o arquivo ZIP em uma pasta no seu computador.  
+3. Abra o arquivo **index.html** com qualquer navegador.
+
+---
+
+### 🔹 Ao acessar a página online:
+- O site será carregado diretamente pelo navegador.  
+- Você poderá visualizar e testar todas as funcionalidades.  
+
+---
+
 ## 📋 Descrição do Teste
 
 Este teste tem como objetivo avaliar suas habilidades básicas em desenvolvimento front-end, utilizando **HTML**, **CSS** e **JavaScript** para criar uma aplicação simples de consulta de CEP.
